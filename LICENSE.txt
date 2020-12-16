@@ -15,6 +15,7 @@ decompile, and compile any of the files, subject to the following conditions:
 Do not reupload any of the files, or any part of the files, without giving credit. Credit may
 include at least one of the following:	
 	A link to the github repository (https://github.com/andrewpratt64/TeardownCustomWeather)
+	A link to the teardownmods.com page: 
 
 ALL FILES IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR(S) OR COPYRIGHT HOLDER(S) BE
