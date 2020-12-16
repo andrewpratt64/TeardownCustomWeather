@@ -4,6 +4,8 @@ Andrew Pratt's Custom Weather Mod for Teardown License
 Copyright (c) 2020 Andrew Pratt
 
 Author's github: andrewpratt64
+Author's teardownmods.com account: andrewpratt64
+Author's www.nexusmods.com account: andrewpratt64
 
 Permission is hereby granted, free of charge, to any person obtaining
 the files included within this repository (as in any files within the
@@ -11,7 +13,8 @@ github repository, "TeardownCustomWeather" by andrewpratt64), to use, copy, view
 decompile, and compile any of the files, subject to the following conditions:
 
 Do not reupload any of the files, or any part of the files, without giving credit. Credit may
-include at least one of the following: A link to github ()
+include at least one of the following:	
+	A link to the github repository (https://github.com/andrewpratt64/TeardownCustomWeather)
 
 ALL FILES IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR(S) OR COPYRIGHT HOLDER(S) BE
