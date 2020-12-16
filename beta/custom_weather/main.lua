@@ -34,7 +34,7 @@ local function DrawHorizBillboardSprite(cameraPos, handle, pos, width, height, r
 end
 
 
-function mod_init()
+function CustomWeatherModInit()
 
 	--	>===> SET OPTIONS HERE <===<
 
@@ -90,17 +90,9 @@ function mod_init()
 	
 	spriteSnow = LoadSprite(SNOW_IMG);
 end
-
-function init()
-	local status, err = pcall(mod_init);
-	
-	if (status == false) then
-		DebugPrint("LUA ERROR IN MOD snow_test IN FUNCTION init: " .. err);
-	end
-end
 	
 	
-function mod_tick()
+function CustomWeatherModTick()
 	-- Use the same set of random numbers every time
 	math.randomseed(SNOW_SEED);
 	
@@ -169,12 +161,4 @@ function mod_tick()
 		end
 	end
 	
-end
-
-function tick()
-	local status, err = pcall(mod_tick);
-	
-	--if (status == false) then
-		--DebugPrint("LUA ERROR IN MOD snow_test IN FUNCTION tick: " .. err);
-	--end
 end
