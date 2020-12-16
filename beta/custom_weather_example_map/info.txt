@@ -1,0 +1,3 @@
+name = Custom Weather
+author = Andrew Pratt
+description = A module to add customizable snow to your map
