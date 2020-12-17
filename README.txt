@@ -1,7 +1,5 @@
-# TeardownCustomWeather
- A module to add customizable snow to your map
- By Andrew Pratt
- (andrewpratt64)
+Custom Weather Mod for Teardown by Andrew Pratt (andrewpratt64)
+A module to add customizable snow to your map
  
 License info in LICENSE.txt
 
@@ -32,8 +30,8 @@ Hopefully these can be configured in your map xml file in the future
  
  
 =LINKS=
-	Github:				https://github.com/andrewpratt64/TeardownCustomWeather
-	Teardownmods.com:	TODO
+	Github:			https://github.com/andrewpratt64/TeardownCustomWeather
+	Teardownmods.com:	https://teardownmods.com/index.php?/file/836-custom-weather-mod/
 	
 
 =INSTALLATION INSTRUCTIONS=
