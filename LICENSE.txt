@@ -1,4 +1,3 @@
-INCOMPLETE
 Andrew Pratt's Custom Weather Mod for Teardown License
 
 Copyright (c) 2020 Andrew Pratt
